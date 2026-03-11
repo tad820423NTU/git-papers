@@ -13,6 +13,10 @@ Really cool results
 
 Beautiful figures
 
+## Conclusions
+
+Something really important
+
 ## References
 
 Smith, J (2020).
